@@ -1,0 +1,9 @@
+{
+  "name": "tchoua-app-association-event-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Event Planner — planification d'événements pour les associations Tchoua",
+  "scripts": {
+    "start": "python3 -m http.server 3000"
+  }
+}
